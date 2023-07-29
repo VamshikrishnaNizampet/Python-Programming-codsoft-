@@ -1,1 +1,1 @@
-codsoft internship programm(domain:python programming)
+codsoft internship programs(domain:python programming)
